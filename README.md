@@ -1,4 +1,4 @@
-# Django_Ecommerce_Shop
+# TODO App
 ## **STEPS to run the following project:**
 
 1-->Download the zip file
